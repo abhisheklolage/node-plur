@@ -19,6 +19,6 @@ Depends:
  , nodejs
  , node-irregular-plurals (>= 1.0.0)
 Description: Pluralize a word
- FIX_ME long description
+ This package works only for English language currently.
  .
  Node.js is an event-based server-side JavaScript engine.

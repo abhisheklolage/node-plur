@@ -1,6 +1,6 @@
 node-plur (2.1.2-1) UNRELEASED; urgency=low
 
-  * Initial release (Closes: #nnnn)
+  * Initial release (Closes: #850222)
   * New upstream release
 
  -- Abhishek Lolage <abhisheklolage@gmail.com>  Fri, 06 Jan 2017 06:06:21 +0000
