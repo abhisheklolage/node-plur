@@ -1,0 +1,24 @@
+Source: node-plur
+Section: web
+Priority: optional
+Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
+Uploaders: Abhishek Lolage <abhisheklolage@gmail.com>
+Build-Depends:
+ debhelper (>= 9)
+ , dh-buildinfo
+ , nodejs
+Standards-Version: 3.9.8
+Homepage: https://github.com/sindresorhus/plur
+Vcs-Git: https://anonscm.debian.org/git/pkg-javascript/node-plur.git
+Vcs-Browser: https://anonscm.debian.org/cgit/pkg-javascript/node-plur.git
+
+Package: node-plur
+Architecture: all
+Depends:
+ ${misc:Depends}
+ , nodejs
+ , node-irregular-plurals (>= 1.0.0)
+Description: Pluralize a word
+ FIX_ME long description
+ .
+ Node.js is an event-based server-side JavaScript engine.
